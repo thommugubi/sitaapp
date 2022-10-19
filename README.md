@@ -68,7 +68,7 @@ span.psw {
 </head>
 <body>
 
-<h2>Sita AppLogin Form</h2>
+<h2>Sita App Login Form</h2>
 
 <form action="/action_page.php" method="post">
   <div class="imgcontainer">
